@@ -35,3 +35,7 @@ I built this project to:
 - 🗑️ Delete files directly from the interface  
 - 📂 View/download uploaded files  
 
+
+
+<img width="1900" height="910" alt="image" src="https://github.com/user-attachments/assets/137697b7-d6ad-469f-95c5-19951da36991" />
+
